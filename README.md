@@ -29,5 +29,5 @@ Git, GitHub, npm, Postman, VS Code
 
 ## 📫 Contact
 
-LinkedIn: (https://www.linkedin.com/in/oleksandra-dubrovina/?skipRedirect=true)
+LinkedIn: https://www.linkedin.com/in/oleksandra-dubrovina/
 Email: sashaaagfg4@gmail.com
